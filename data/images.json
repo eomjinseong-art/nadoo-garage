@@ -2,22 +2,22 @@
  "bmw-118d-f20": {
   "src": "/img/bmw-118d-f20.jpg",
   "w": 1100,
-  "h": 825,
-  "file": "BMW F20 118d Urban Alpine White (11).jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:BMW_F20_118d_Urban_Alpine_White_(11).jpg",
-  "author": "Damian B Oh",
+  "h": 710,
+  "file": "BMW 1 SERIES (F20) China (16).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BMW_1_SERIES_(F20)_China_(16).jpg",
+  "author": "Dinkun Chen",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
  },
  "bmw-520e": {
   "src": "/img/bmw-520e.jpg",
   "w": 1100,
-  "h": 701,
-  "file": "BMW 5-Series Touring (G31) 520e (2021) (52198584545).jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:BMW_5-Series_Touring_(G31)_520e_(2021)_(52198584545).jpg",
-  "author": "Charles from Port Chester, New York",
-  "license": "CC BY 2.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  "h": 825,
+  "file": "BMW 530i G30 white (1).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BMW_530i_G30_white_(1).jpg",
+  "author": "Damian B Oh",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
  },
  "bmw-740e": {
   "src": "/img/bmw-740e.jpg",
@@ -62,10 +62,10 @@
  "jaguar-f-type-convertible": {
   "src": "/img/jaguar-f-type-convertible.jpg",
   "w": 1100,
-  "h": 733,
-  "file": "Jaguar F-Type S Convertible (42323268901).jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_S_Convertible_(42323268901).jpg",
-  "author": "Hugh Llewelyn from Keynsham, UK",
+  "h": 622,
+  "file": "Jaguar F-Type S - Flickr - Alexandre Prévot (cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_F-Type_S_-_Flickr_-_Alexandre_Pr%C3%A9vot_(cropped).jpg",
+  "author": "Alexandre Prévot from Nancy, France",
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
  },
@@ -89,15 +89,15 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
  },
- "jaguar-xj-x350": {
-  "src": "/img/jaguar-xj-x350.jpg",
+ "jaguar-xj-x351": {
+  "src": "/img/jaguar-xj-x351.jpg",
   "w": 1100,
-  "h": 653,
-  "file": "Jaguar XJ X350 Ebony 02.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Jaguar_XJ_X350_Ebony_02.jpg",
-  "author": "Ethan Llamas",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  "h": 733,
+  "file": "New Jaguar XJ - Flickr - Supermac1961 (1).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:New_Jaguar_XJ_-_Flickr_-_Supermac1961_(1).jpg",
+  "author": "Supermac1961 from CHAFFORD HUNDRED, England",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
  },
  "kia-k5-jf": {
   "src": "/img/kia-k5-jf.jpg",
@@ -142,9 +142,9 @@
  "mercedes-c-class-w205": {
   "src": "/img/mercedes-c-class-w205.jpg",
   "w": 1100,
-  "h": 565,
-  "file": "Mercedes-Benz C 220 BlueTEC Exclusive (W 205) – Frontansicht, 12. Juli 2014, Düsseldorf.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_C_220_BlueTEC_Exclusive_(W_205)_%E2%80%93_Frontansicht,_12._Juli_2014,_D%C3%BCsseldorf.jpg",
+  "h": 551,
+  "file": "Mercedes-Benz C 200 Avantgarde (W 205) – Frontansicht, 26. April 2014, Düsseldorf.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_C_200_Avantgarde_(W_205)_%E2%80%93_Frontansicht,_26._April_2014,_D%C3%BCsseldorf.jpg",
   "author": "M 93",
   "license": "CC BY-SA 3.0 de",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
@@ -192,12 +192,12 @@
  "bmw-r-ninet": {
   "src": "/img/bmw-r-ninet.jpg",
   "w": 1100,
-  "h": 1100,
-  "file": "BMW R nineT IAA 2019 JM 0256.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:BMW_R_nineT_IAA_2019_JM_0256.jpg",
-  "author": "Johannes Maximilian",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  "h": 717,
+  "file": "BMW R nineT in Paris.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BMW_R_nineT_in_Paris.jpg",
+  "author": "DenisDenis from Paris, France",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
  },
  "ducati-monster-696": {
   "src": "/img/ducati-monster-696.jpg",
@@ -261,43 +261,43 @@
  },
  "ducati-panigale-899": {
   "src": "/img/ducati-panigale-899.jpg",
-  "w": 1100,
-  "h": 650,
-  "file": "Panigale 899 side neutral-background.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Panigale_899_side_neutral-background.jpg",
-  "author": "Scientificaldan",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  "w": 1024,
+  "h": 683,
+  "file": "Ducati Panigale 899 (Flickr)",
+  "page": "https://www.flickr.com/photos/95526750@N06/13187594075",
+  "author": "TehWulf",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
  },
  "jaguar-s-type": {
   "src": "/img/jaguar-s-type.jpg",
   "w": 1100,
-  "h": 660,
-  "file": "2000 (X) Jaguar S-Type.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:2000_(X)_Jaguar_S-Type.jpg",
-  "author": "Aboutdamnavantime.wiki",
-  "license": "CC BY 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  "h": 733,
+  "file": "2000 Jaguar S-Type (X200) SE 3.0 sedan (21486737913).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2000_Jaguar_S-Type_(X200)_SE_3.0_sedan_(21486737913).jpg",
+  "author": "Jeremy from Sydney, Australia",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
  },
  "jeep-wrangler-overland": {
   "src": "/img/jeep-wrangler-overland.jpg",
   "w": 1100,
-  "h": 733,
-  "file": "Dark Grey Jeep Wrangler JL Soft-Top on W Lone Mountain Rd.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Dark_Grey_Jeep_Wrangler_JL_Soft-Top_on_W_Lone_Mountain_Rd.jpg",
-  "author": "Noah Wulf",
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  "h": 651,
+  "file": "2024 Jeep Wrangler four-door Sahara in Silver Zynith, front right, 2026-06-06.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2024_Jeep_Wrangler_four-door_Sahara_in_Silver_Zynith,_front_right,_2026-06-06.jpg",
+  "author": "Elise240SX",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
  },
  "renault-samsung-sm5": {
   "src": "/img/renault-samsung-sm5.jpg",
-  "w": 1060,
-  "h": 630,
-  "file": "20110327 renault samsung sm5 new impression 2.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:20110327_renault_samsung_sm5_new_impression_2.jpg",
-  "author": "Chu",
-  "license": "CC BY-SA 3.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  "w": 1100,
+  "h": 825,
+  "file": "Samsung SM5 PE 2008 (10414389284).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Samsung_SM5_PE_2008_(10414389284).jpg",
+  "author": "order_242 from Chile",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
  },
  "suzuki-gsx-r600": {
   "src": "/img/suzuki-gsx-r600.jpg",
