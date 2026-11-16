@@ -43,11 +43,16 @@ export function VehicleDetail({ vehicle }: { vehicle: Vehicle }) {
         <figcaption className="bg-card px-4 py-2 text-xs text-muted">
           {image ? (
             <>
-              사진: {image.author} ·{" "}
-              <a href={image.page} className="underline underline-offset-2 hover:text-accent" target="_blank" rel="noopener noreferrer">
-                위키미디어 공용
-              </a>{" "}
-              · {image.license}
+              사진: {image.author}
+              {image.page ? (
+                <>
+                  {" · "}
+                  <a href={image.page} className="underline underline-offset-2 hover:text-accent" target="_blank" rel="noopener noreferrer">
+                    {image.page.includes("flickr.com") ? "Flickr" : "위키미디어 공용"}
+                  </a>
+                </>
+              ) : null}
+              {image.license !== image.author ? ` · ${image.license}` : ""}
               {vehicle.imageNote ? ` · ${vehicle.imageNote}` : ""}
             </>
           ) : (
