@@ -2,6 +2,14 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  async headers() {
+    return [
+      {
+        source: "/:path*",
+        headers: [{ key: "X-Robots-Tag", value: "noindex, nofollow, noarchive, nosnippet, noimageindex" }],
+      },
+    ];
+  },
   async redirects() {
     return [{ source: "/cars/jaguar-xj-x350", destination: "/cars/jaguar-xj-x351", permanent: true }];
   },

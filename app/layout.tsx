@@ -43,6 +43,14 @@ export const metadata: Metadata = {
     title: `${SITE_NAME} — 운영자와 함께했던 차량 및 바이크`,
     description: SITE_DESCRIPTION,
   },
+  robots: {
+    index: false,
+    follow: false,
+    nocache: true,
+    noarchive: true,
+    nosnippet: true,
+    noimageindex: true,
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
