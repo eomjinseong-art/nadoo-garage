@@ -30,13 +30,19 @@ function timingSafeEqual(a: Uint8Array, b: Uint8Array) {
   return diff === 0;
 }
 
+function asArrayBuffer(data: Uint8Array) {
+  const copy = new ArrayBuffer(data.byteLength);
+  new Uint8Array(copy).set(data);
+  return copy;
+}
+
 async function sha256(data: Uint8Array) {
-  return new Uint8Array(await crypto.subtle.digest("SHA-256", data));
+  return new Uint8Array(await crypto.subtle.digest("SHA-256", asArrayBuffer(data)));
 }
 
 async function hmac(secret: Uint8Array, data: string) {
-  const key = await crypto.subtle.importKey("raw", secret, { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
-  return new Uint8Array(await crypto.subtle.sign("HMAC", key, textEncode(data)));
+  const key = await crypto.subtle.importKey("raw", asArrayBuffer(secret), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  return new Uint8Array(await crypto.subtle.sign("HMAC", key, asArrayBuffer(textEncode(data))));
 }
 
 export function sitePassword() {
